@@ -25,6 +25,7 @@ def reverse_tuple(input_tuple):
     for x in reversed(input_tuple):
         new_tuple += (x,)
     return new_tuple
+#function above sourced from https://www.geeksforgeeks.org/python-reversing-tuple/
 
 #sets the upper half of the color screen to whichever color you prefer
 def upper(color):

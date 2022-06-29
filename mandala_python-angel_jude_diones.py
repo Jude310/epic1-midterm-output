@@ -249,10 +249,4 @@ slices(100)
 turtle.right(90)
 surroundCircle(36,100)
 
-
-
-
-
-
-
-
+turtle.exitonclick()
